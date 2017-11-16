@@ -1,3 +1,6 @@
+# About project
+Simple application which has CRUD for users and addresses for each user
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
